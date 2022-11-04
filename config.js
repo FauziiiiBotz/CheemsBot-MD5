@@ -2,7 +2,7 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //aumto functioner
-global.autoTyping = false //auto tying in gc (true to on, false to off)
+global.autoTyping = true //auto tying in gc (true to on, false to off)
 global.autoRecord = true //auto recording (true to on, false to off)
 
 //documents variants
@@ -24,7 +24,7 @@ global.location = "Indonesia, Banjarmasin, Hss" //ur location
 global.owner = ['14144550783'] //ur number
 global.ownernomer = "14144550783" //ur number
 global.ownertag = '14144550783' //ur tag number
-global.premium = [''] //ur premium number
+global.premium = ['14144550783'] //ur premium number
 global.botname = '𝙁𝙖𝙪𝙯𝙞 𝑩𝑶𝑻𝒁ラ' //ur bot name
 global.ownername = "Fauzi Xeon"
 global.linkz = "https://Instagram.com/fauzibeban__" //your theme url which will be displayed on whatsapp
