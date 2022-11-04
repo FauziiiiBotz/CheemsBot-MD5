@@ -14,26 +14,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //owmner v card
-global.vcardowner = ['916909137213'] //ur owner number
-global.ownername = "🦄Dream Guy Xeon" //ur owner name
+global.vcardowner = ['14144550783'] //ur owner number
+global.ownername = "FauziGanz" //ur owner name
 global.ytname = "YT: Xeon" //ur yt chanel name
-global.socialm = "GitHub: DGXeon" //ur github or insta name
-global.location = "India, Mizoram, Aizawl" //ur location
+global.socialm = "GitHub: FauziSlebew" //ur github or insta name
+global.location = "Indonesia, Banjarmasin, Hss" //ur location
 
 //bot bomdy 
-global.owner = ['916909137213'] //ur number
-global.ownernomer = "916909137213" //ur number
-global.ownertag = '916909137213' //ur tag number
-global.premium = ['916909137213'] //ur premium number
-global.botname = 'Cheems Bot V5' //ur bot name
-global.ownername = "🦄Dream Guy Xeon"
-global.linkz = "https://youtu.be/WiIqCdiDjFo" //your theme url which will be displayed on whatsapp
-global.websitex = "https://youtu.be/WiIqCdiDjFo" //ur website to be displayed
+global.owner = ['14144550783'] //ur number
+global.ownernomer = "14144550783" //ur number
+global.ownertag = '14144550783' //ur tag number
+global.premium = [''] //ur premium number
+global.botname = '𝙁𝙖𝙪𝙯𝙞 𝑩𝑶𝑻𝒁ラ' //ur bot name
+global.ownername = "Fauzi Xeon"
+global.linkz = "https://Instagram.com/fauzibeban__" //your theme url which will be displayed on whatsapp
+global.websitex = "https://Instagram.com/fauzibeban__" //ur website to be displayed
 global.botscript = 'https://github.com/DGXeon/CheemsBot-MD5' //script link
-global.themeemoji = "🦄" //ur theme emoji
+global.themeemoji = "🔥" //ur theme emoji
 global.packname = "Sticker By" //ur sticker watermark packname
-global.author = "Cheems Bot" //ur sticker watermark author
-global.wm = "Xeon Bot Inc." //ur watermark
+global.author = "𝙁𝙖𝙪𝙯𝙞 𝑩𝑶𝑻𝒁ラ" //ur sticker watermark author
+global.wm = "𝙁𝙖𝙪𝙯𝙞 𝑩𝑶𝑻𝒁ラ." //ur watermark
 
 // Other
 global.sessionName = 'session'
@@ -41,17 +41,17 @@ global.prefa = ['','!','.','#','&']
 global.sp = ''
 global.mess = {
     success: 'Done✓',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
-    premime: 'Premium Special Features If You Want to Register Type Rent',
-    owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
-    bot: 'This feature could be used by bot only',
+    admin: 'Lu Admin Bang?',
+    botAdmin: 'Bot Aja Bukan Admin Kontol!',
+    premime: 'Fitur Spesial Premium Jika Anda Ingin Mendaftar Jenis Sewa',
+    owner: 'Khusus Owner Kontol!!!',
+    group: 'Fitur Hanya Digunakan Untuk Grup!',
+    private: 'Fitur Hanya Digunakan Untuk Obrolan Pribadi!',
+    bot: 'Fitur ini hanya dapat digunakan oleh bot',
     wait: 'In process...',
-    linkm: 'Where is the link?',
-    endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
-    nsfw: 'The nsfw feature has not been activated, please contact the admin to activate',
+    linkm: 'Mana linknya Kontol?',
+    endLimit: 'Batas Harian Anda Telah Kedaluwarsa, Batas Akan Direset Setiap 12 Jam',
+    nsfw: 'Fitur nsfw belum di aktifkan silahkan hubungi admin untuk aktivasi',
 }
 global.limitawal = {
     premium: "Infinity",
